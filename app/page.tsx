@@ -25,7 +25,7 @@ export default function Home() {
           </div>
           <div className="relative aspect-square md:aspect-auto flex justify-center">
             <img
-              src="https://res.cloudinary.com/dvs4eeg1p/image/upload/v1757457410/IMG_6689_i5c1zu.jpg"
+              src="https://res.cloudinary.com/dvs4eeg1p/image/upload/v1757522238/Screenshot_2025-09-09_at_4.07.33_PM_ljqz0h.png"
               alt="Profile"
               className="rounded-2xl object-cover md:h-80 md:w-80 h-52 w-52 ml-5 mt-20 md:mt-0"
             />

@@ -9,7 +9,7 @@ export default function PapershelfPage() {
           <div className="group">
             <div className="aspect-video rounded-xl overflow-hidden mb-4">
               <img
-                src="https://res.cloudinary.com/dvs4eeg1p/image/upload/v1757458847/IMG_1752_qzak8v.heic"
+                src="https://res.cloudinary.com/dvs4eeg1p/image/upload/v1757521723/IMG_1752_jjwtnj.jpg"
                 alt="Dancing"
                 width={500}
                 height={300}
@@ -25,7 +25,7 @@ export default function PapershelfPage() {
           <div className="group">
             <div className="aspect-video rounded-xl overflow-hidden mb-4">
               <img
-                src="https://res.cloudinary.com/dhxeo4rvc/image/upload/v1737380974/Screen_Shot_2025-01-20_at_5.49.03_AM_gw1bms.png"
+                src="https://res.cloudinary.com/dvs4eeg1p/image/upload/v1757521723/IMG_5591_ohaacl.jpg"
                 alt="Cooking"
                 width={500}
                 height={300}

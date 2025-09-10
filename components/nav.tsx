@@ -13,7 +13,7 @@ const links = [
     label: "Hobbies",
   },
   {
-    href: "www.linkedin.com/in/amishi-seth-aa5348325",
+    href: "https://www.linkedin.com/in/amishi-seth-aa5348325",
     label: "LinkedIn",
   },
   {
