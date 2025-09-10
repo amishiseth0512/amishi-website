@@ -6,7 +6,7 @@ import Link from "next/link";
 
 const links = [
   {
-    href: "https://www.linkedin.com/in/amishi-seth-3b3508247",
+    href: "https://www.linkedin.com/in/amishi-seth-aa5348325",
     label: "LinkedIn",
     icon: Linkedin,
   },
