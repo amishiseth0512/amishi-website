@@ -7,15 +7,15 @@ export function cn(...inputs: ClassValue[]) {
 }
 export const projects = [
   {
-    title: "URL Shortener with Redis",
+    title: "Video Transcoder",
+    href: "https://transcoder.amishiseth.online/",
+  },
+  {
+    title: "Delivery Operations Dashboard",
+    href: "https://github.com/amishiseth0512/delivery-ops-dashboard",
+  },
+  {
+    title: "URL Shortener",
     href: "https://github.com/amishiseth0512/url-shortner",
-  },
-  {
-    title: "An ETL data pipeline with Semgrep and Sumo Logic Integrations",
-    href: "https://github.com/amishiseth0512/etl",
-  },
-  {
-    title: "User Management API in Golang",
-    href: "https://github.com/amishiseth0512/api-user-management",
   },
 ];
