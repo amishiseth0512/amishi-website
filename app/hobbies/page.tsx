@@ -18,7 +18,8 @@ export default function PapershelfPage() {
             </div>
             <h3 className="md:text-2xl text-lg font-semibold mb-2">Dancing</h3>
             <p className="text-gray-400 text-sm md:text-md">
-              I’ve always loved dancing — whether it’s freestyle at home or picking up a few moves from random Instagram reels.
+              I’ve always loved dancing, whether it’s freestyle at home or
+              picking up things from random Instagram reels.
             </p>
           </div>
 
@@ -34,7 +35,8 @@ export default function PapershelfPage() {
             </div>
             <h3 className="md:text-2xl text-lg font-semibold mb-2">Cooking</h3>
             <p className="text-gray-400 text-sm md:text-md">
-              Nothing fancy, but I enjoy experimenting in the kitchen, especially when I’m craving something from home.
+              Nothing fancy, but I enjoy experimenting in the kitchen,
+              especially when I’m craving something from home.
             </p>
           </div>
         </div>
